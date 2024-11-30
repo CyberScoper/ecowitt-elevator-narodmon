@@ -1,5 +1,7 @@
 # 🌦️ Ecowitt to Narodmon Data Sender
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c0551c0bf5134deaa6d65af34db4e5fc)](https://app.codacy.com/gh/CyberScopeToday/ecowitt-elevator-narodmon?utm_source=github.com&utm_medium=referral&utm_content=CyberScopeToday/ecowitt-elevator-narodmon&utm_campaign=Badge_Grade)
+
 This Python script collects weather data from an Ecowitt weather station and sends it to Narodmon, a popular public monitoring service. The script periodically queries the Ecowitt API, extracts all available weather data, and sends it to Narodmon for visualization and tracking.
 
 ## ✨ Features
