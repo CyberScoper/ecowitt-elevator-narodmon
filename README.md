@@ -1,5 +1,7 @@
 # 🌦️ Ecowitt to Narodmon Data Sender
 
+[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/ecowitt-elevator-narodmon/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/ecowitt-elevator-narodmon)
+
 This Python script collects weather data from an Ecowitt weather station and sends it to Narodmon, a popular public monitoring service. The script periodically queries the Ecowitt API, extracts all available weather data, and sends it to Narodmon for visualization and tracking.
 
 ## ✨ Features
